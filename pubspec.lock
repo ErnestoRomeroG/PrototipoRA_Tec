@@ -89,6 +89,9 @@ packages:
     source: sdk
     version: "0.0.0"
 <<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> dbe10de107f7b2a50a86ca8cd1f95262d4965c37
   leak_tracker:
     dependency: transitive
     description:
@@ -113,8 +116,11 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "2.0.1"
+<<<<<<< HEAD
+=======
 =======
 >>>>>>> d257760e0b3185052478ebbfd7237a89cbd9b2ec
+>>>>>>> dbe10de107f7b2a50a86ca8cd1f95262d4965c37
   lints:
     dependency: transitive
     description:
@@ -149,8 +155,12 @@ packages:
 <<<<<<< HEAD
     version: "1.11.0"
 =======
+<<<<<<< HEAD
+    version: "1.11.0"
+=======
     version: "1.10.0"
 >>>>>>> d257760e0b3185052478ebbfd7237a89cbd9b2ec
+>>>>>>> dbe10de107f7b2a50a86ca8cd1f95262d4965c37
   model_viewer_plus:
     dependency: "direct main"
     description:
@@ -169,8 +179,12 @@ packages:
 <<<<<<< HEAD
     version: "1.9.0"
 =======
+<<<<<<< HEAD
+    version: "1.9.0"
+=======
     version: "1.8.3"
 >>>>>>> d257760e0b3185052478ebbfd7237a89cbd9b2ec
+>>>>>>> dbe10de107f7b2a50a86ca8cd1f95262d4965c37
   platform:
     dependency: transitive
     description:
