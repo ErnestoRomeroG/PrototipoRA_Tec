@@ -70,7 +70,7 @@ class _HomePageState extends State<HomePage> {
                     style: TextStyle(fontSize: 15),
                   ),
                   Text(
-                    "  ITM",
+                    "ITM",
                     style: TextStyle(fontSize: 26, fontWeight: FontWeight.bold),
                   ),
                 ],
