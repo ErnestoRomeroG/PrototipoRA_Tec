@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+<<<<<<< HEAD
 // ignore: unused_import
 import 'package:prototipo_ra_tec/modelos_RA/turbina.dart';
 
@@ -72,6 +73,18 @@ class Mecatronica extends StatelessWidget {
           ),
         );
       },
+=======
+
+class Mecatab extends StatelessWidget {
+  const Mecatab({super.key});
+
+  @override
+  Widget build(BuildContext context) {
+    return Container(
+      child: Center(
+        child: Text("Mecatronica"),
+      ),
+>>>>>>> d257760e0b3185052478ebbfd7237a89cbd9b2ec
     );
   }
 }
