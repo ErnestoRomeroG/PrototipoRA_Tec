@@ -80,7 +80,7 @@ class _HomePageState extends State<HomePage> {
             TabBar(tabs: myTabs),
             Expanded(
                 child: TabBarView(
-              children: [ITtab(), Industab(), Mecatab(), Atractab()],
+              children: [ITtab(), Industal(), Mecatronica(), Atractab()],
             ))
           ],
         ),
